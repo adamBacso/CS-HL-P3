@@ -1,0 +1,11 @@
+---
+aliases:
+  - NLU
+---
+- interpret user input
+- each step of *pipeline* deepens understanding
+- modularity enhances possible complexity
+	- task can be broken down, parallelized
+	- module optimized for specific tasks
+	- each module provides a more precise output to next
+	- easy improvement to any module, entire pipeline does not need to be overhauled

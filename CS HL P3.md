@@ -1,0 +1,27 @@
+
+# Terminology
+
+- [[backpropagation through time]]
+- [[bag-of-words]]
+- [[biases]]
+- [[Dataset]]
+- [[Deep learning]]
+- [[graphical processing unit]]
+- [[Hyperparameter tuning]]
+- [[large language model]]
+- [[Latency]]
+- [[long short-term memory]]
+- [[loss function]]
+- [[Memory cell state]]
+- [[natural language processing]]
+- [[natural language understanding]]
+- [[pre-processing]]
+- [[recurrent neural network]]
+- [[self-attention mechanism]]
+- [[synthetic data]]
+- [[tensor processing unit]]
+- [[transformer neural network]]
+- [[Vanishing gradient]]
+- [[Weights]]
+
+[[Paper 3 - Booklet.pdf]]

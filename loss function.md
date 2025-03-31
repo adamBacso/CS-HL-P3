@@ -1,0 +1,1 @@
+used in [[backpropagation]] to determine the error in the output
