@@ -2,7 +2,26 @@
 aliases:
   - NLP
 ---
+converts unstructured text into structured text 
+
+- unstructured -> structured: [[natural language understanding]]
+- structured -> unstructured: natural language generation
+
+# Use cases 
+1. machine translation
+2. virtual assistant
+3. chatbot
+4. [[sentiment analysis]]
+5. spam detection
+
+# Steps
+
 1. lexical analysis 
+	- [[tokenization]]
+	- cleaning and feature extraction
+		- [[lemmatization]]
+		- [[stopword]] removal
+		- correct misspelled words
 2. syntactic analysis (parsing)
 	1. interpret grammar structure
 	2. subject, verb, object, etc.

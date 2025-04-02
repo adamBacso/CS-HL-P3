@@ -1,0 +1,1 @@
+reduce words into base (root) form
